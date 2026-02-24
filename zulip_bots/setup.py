@@ -53,8 +53,6 @@ setup(
         "pip",
         "zulip",
         "html2text",
-        "lxml",
-        "BeautifulSoup4",
         "typing_extensions>=4.5.0",
         "importlib-metadata>=3.6",
     ],
